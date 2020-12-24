@@ -1,0 +1,42 @@
+create database Sorteos
+
+
+
+use Sorteos
+
+
+
+create table Sorteos (
+ 
+
+   nro_sorteo int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    
+   numero_jugado_1  int not null,
+   
+   numero_jugado_2  int not null,
+   
+   numero_jugado_3  int not null,
+    
+   numero_jugado_4  int not null,
+   
+   numero_jugado_5  int not null,
+    
+   numero_jugado_6  int not null,
+    
+   cant_aciertos    int not null,
+    
+   numero_sorteado_1 int not null,
+   
+   numero_sorteado_2 int not null,
+   
+   numero_sorteado_3 int not null,
+    
+   numero_sorteado_4 int not null,
+    
+   numero_sorteado_5 int not null,
+    
+   numero_sorteado_6 int not null
+    
+
+
+);

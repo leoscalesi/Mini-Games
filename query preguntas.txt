@@ -1,0 +1,75 @@
+create database Quiz
+
+
+
+use Quiz
+
+
+
+create table preguntas(
+
+id_pregunta        int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  
+pregunta               varchar (250) NOT NULL,
+ 
+correcta                int
+
+
+);
+
+
+
+insert into preguntas (pregunta,correcta)
+
+
+
+values ('Cual es el logaritmo natural de 1?','0'),
+       
+            ('En que año derribaron a las torres gemelas?','2001'),
+      
+            ('Cuantas copas Libertadores tiene Boca Juniors?','6'),
+       
+            ('En que año murio Manuel Belgrano?','1820'),
+       
+            ('Cuantos anillos de campeonato de la N.B.A. tiene Michael Jordan','6'),
+  
+            ('Si un cuerpo posee un diamtero de 4 cm, cual sera su radio?','2'),
+     
+            ('Cuantos satelites naturales tiene el planeta Marte?','2'),
+      
+            ('En que año se declaro en Argentina la independencia?','1810'),
+   
+            ('Cuantos cotiledones posee una planta de tomate?','2'),
+     
+            ('En que siglo ocurrio la Revolucion Francesa?','18'),
+      
+            ('Hace cuantos millones de años se extinguieron los dinosaurios?','65'),
+  
+            ('Cuantos atomos de hidrogeno posee el amoniaco?','3'),
+     
+            ('Cuantos atomos de carbono posee la glucosa?','6'),
+      
+            ('En que año llego por primera vez el hombre a la luna?','1969'),
+      
+            ('Cuantos tentaculos posee un pulpo?','8'),
+       
+            ('En que año comenzo la primera guerra mundial?','1914'),
+       
+            ('Cual es el numero atomico del hidrogeno?','1'),
+       
+            ('En que año murio Michael Jackson?','2009'),
+     
+            ('En que año llego el hombre por primera  vez a la Luna?','1969'),
+      
+            ('En que año ocurrio el primer golpe militar en Argentina?','1930'),
+   
+            ('Cual es el resultado de 1023 elevado a la 0?','1'),
+      
+            ('En que año finalizo la segunda guerra mundial?','1945')
+     
+
+
+
+  
+       
+
