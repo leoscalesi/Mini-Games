@@ -23,5 +23,12 @@ y listo!!
 
 Se estima que cada piso tiene aproximadamente una altura de 2.5 metros.
 
+La velocidad se expresa en km/h, y el tiempo en segundos.
+
+Tambien tenemos una calculadora que dada una determinada profundidad, nos calcula cual es la presion en atmosferas a la que esta sometido un cuerpo, considerando 
+que esta sumergido en agua.
+
+
+
 
 
