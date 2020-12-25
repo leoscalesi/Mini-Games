@@ -21,7 +21,7 @@ utilizando las ecuaciones de Cinematica para un M.R.U.V. (movimiento rectilineo 
 Lo bueno es que no necesitas poner ningun tipo de unidad ni nada por el estilo, solo deberas poner el numero de piso desde el cual cayo la persona
 y listo!! 
 
-Se estima que cada piso tiene aproximadamente una altura de
+Se estima que cada piso tiene aproximadamente una altura de 2.5 metros.
 
 
 
