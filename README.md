@@ -8,6 +8,7 @@ por ejemplo el solitario y el buscaminas.
 
 Mi aplicacion se divide en 4 minijuegos:
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CALCULADORA DE IRRELEVANCIAS:
 
 Nunca te paso de ver en algun noticiero que una persona cayo de un determinado piso de un edificio, a veces con un triste desenlace, y preguntarte:
@@ -29,6 +30,16 @@ Tambien tenemos una calculadora que dada una determinada profundidad, nos calcul
 que esta sumergido en agua.
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+QUINI SIX:
+
+TENES LO QUE SE NECESITA PARA SER MILLONARIO?
+
+
+En este juego, deberas seleccionar 6 numeros al azar entre el 0 y el 45, y sortear!!
+
+Tanto los numeros seleccionados, la cantidad de aciertos y los numeros sorteados van a una base de datos, en caso de que te interese analizar algun tipo de patron en los
+sorteos.
 
 
