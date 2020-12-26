@@ -9,7 +9,7 @@ por ejemplo el solitario y el buscaminas.
 Mi aplicación se divide en 4 minijuegos:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-CALCULADORA DE IRRELEVANCIAS:
+1-CALCULADORA DE IRRELEVANCIAS:
 
 Nunca te pasó de ver en algún noticiero que una persona cayó de un determinado piso de un edificio, a veces con un triste desenlace, y preguntarte:
 
@@ -32,7 +32,7 @@ que esta sumergido en agua.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-QUINI SIX:
+2-QUINI SIX:
 
 TENÉS LO QUE SE NECESITA PARA SER MILLONARIO?
 
@@ -48,7 +48,7 @@ En el archivo sorteos.txt se encuentra la query que deberás utilizar en MySql W
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-PREGUNTAS Y RESPUESTAS:
+3-PREGUNTAS Y RESPUESTAS:
 
 
 CUANTO SABES DE CULTURA GENERAL?
@@ -64,7 +64,7 @@ Las respuestas que debes dar son numéricas... BUENA SUERTE!!!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-APORTA TU GRANITO DE ARENA AL JUEGO DE PREGUNTAS Y RESPUESTAS
+4-APORTA TU GRANITO DE ARENA AL JUEGO DE PREGUNTAS Y RESPUESTAS
 
 
 Podrás escribir una pregunta con su respuesta y al pulsar el boton enviar a base de datos se cargará automáticamente en la base correspondiente!!
