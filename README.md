@@ -1,4 +1,4 @@
-# Mini-Juegos
+# Mini-Games
 Aplicación de escritorio utilizando Python y MySql.
 
 Esta vez les presento una aplicación de escritorio hecha con Python y su librería Tkinter.
